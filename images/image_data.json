@@ -1,0 +1,566 @@
+[
+  {
+    "title": "Iron Point Parry",
+    "saved_location": "images\\S_WP_SW2_Defense_AA.png"
+  },
+  {
+    "title": "Valiant Brawl",
+    "saved_location": "images\\S_WP_SW2_MainAttack_AA.png"
+  },
+  {
+    "title": "Precision Dash",
+    "saved_location": "images\\S_KN_SR_DashAttack_AA.png"
+  },
+  {
+    "title": "Stunning Blow",
+    "saved_location": "images\\S_KN_SR_ShockStun_AA.png"
+  },
+  {
+    "title": "Death Blow",
+    "saved_location": "images\\S_WP_SW2_S_CounterAttack_AA.png"
+  },
+  {
+    "title": "DaVinci's Courage",
+    "saved_location": "images\\S_WP_SW2_ShieldBuff_AA.png"
+  },
+  {
+    "title": "Guillotine Blade",
+    "saved_location": "images\\S_WP_SW2_PowerAttack.png"
+  },
+  {
+    "title": "Gaia Crash",
+    "saved_location": "images\\S_WP_SW2_GaiaCrash.png"
+  },
+  {
+    "title": "Devastating Tornado",
+    "saved_location": "images\\S_WP_SW2_BladeDance_1.png"
+  },
+  {
+    "title": "Willbreaker",
+    "saved_location": "images\\S_WP_SW2_DefenseDebuffAttack.png"
+  },
+  {
+    "title": "Ascending Slash",
+    "saved_location": "images\\S_WP_SW2_UpperAttack.png"
+  },
+  {
+    "title": "Devastating Smash",
+    "saved_location": "images\\S_WP_SW2_LeapAttack.png"
+  },
+  {
+    "title": "Blood Devotion",
+    "saved_location": "images\\S_WP_SW2_DamageReceive.png"
+  },
+  {
+    "title": "Robust Constitution",
+    "saved_location": "images\\S_WP_SW2_HPMaxUP_AA.png"
+  },
+  {
+    "title": "Vital Force",
+    "saved_location": "images\\S_KN_CO_BounceAttack_AA.png"
+  },
+  {
+    "title": "Cold Warrior",
+    "saved_location": "images\\S_KN_CO_Focusattack_AA.png"
+  },
+  {
+    "title": "Victor's Morale",
+    "saved_location": "images\\S_WP_SW2_SkillSucceedRewardMana_AA.png"
+  },
+  {
+    "title": "Raging Frenzy",
+    "saved_location": "images\\S_WP_SW2_StunSuccecsDamageBoost.png"
+  },
+  {
+    "title": "Barbarian's Dash",
+    "saved_location": "images\\S_WP_SW2_SkillMaster.png"
+  },
+  {
+    "title": "Indomitable Armor",
+    "saved_location": "images\\S_WP_SW2_HittedBuff.png"
+  },
+  {
+    "title": "Shield Survival Technique",
+    "saved_location": "images\\S_WP_SW_DefenceAction_AA.png"
+  },
+  {
+    "title": "Shield Strike",
+    "saved_location": "images\\S_WP_SW_SH_S_DebuffAttack_AA.png"
+  },
+  {
+    "title": "Counter Barrier",
+    "saved_location": "images\\S_WP_SH_BuffAttack_AA.png"
+  },
+  {
+    "title": "Strategic Rush",
+    "saved_location": "images\\S_WP_SW_SH_DashAttack_AA.png"
+  },
+  {
+    "title": "Chain Hook",
+    "saved_location": "images\\S_WP_SW_MoveSkill_AA.png"
+  },
+  {
+    "title": "Provoking Roar",
+    "saved_location": "images\\S_WP_SW_SH_TauntBuff_AA.png"
+  },
+  {
+    "title": "Immortal Pride",
+    "saved_location": "images\\WP_SW_S_MaxHealthUp.png"
+  },
+  {
+    "title": "Shield Throw",
+    "saved_location": "images\\S_WP_SW_SH_S_ShieldThrow.png"
+  },
+  {
+    "title": "Stalwart Bastion",
+    "saved_location": "images\\S_WP_SH_ShieldBuff.png"
+  },
+  {
+    "title": "Annihilating Slash",
+    "saved_location": "images\\S_WP_SW_SH_S_WhirlwindSlash.png"
+  },
+  {
+    "title": "Fierce Clash",
+    "saved_location": "images\\S_WP_SH_PushAttack.png"
+  },
+  {
+    "title": "Witty Strike",
+    "saved_location": "images\\S_WP_SW_SH_S_ManaAttack.png"
+  },
+  {
+    "title": "A Shot at Victory",
+    "saved_location": "images\\S_WP_SW_SH_S_DoubleChanceAttack_1.png"
+  },
+  {
+    "title": "Skillful Evasion",
+    "saved_location": "images\\S_WP_SW_TheCloserEvasionUP_AA.png"
+  },
+  {
+    "title": "Resilient Mind",
+    "saved_location": "images\\S_WP_SH_BlockSucceedRewardMana_AA.png"
+  },
+  {
+    "title": "Aegis Shield",
+    "saved_location": "images\\S_WP_SH_ArmorUp_AA.png"
+  },
+  {
+    "title": "Spectrum of Agony",
+    "saved_location": "images\\S_WP_SW_TauntBuff_Attack_AA.png"
+  },
+  {
+    "title": "Gerad's Patience",
+    "saved_location": "images\\S_WP_SH_BlockSucceedTolerance.png"
+  },
+  {
+    "title": "Impenetrable",
+    "saved_location": "images\\S_WP_SW_SH_S_AroundCountBuff.png"
+  },
+  {
+    "title": "Morale Boost",
+    "saved_location": "images\\S_WP_SH_CrashSucceedBuff.png"
+  },
+  {
+    "title": "Block Blade",
+    "saved_location": "images\\S_WP_DA_CounterMove_ActionSkill_Guard_AA.png"
+  },
+  {
+    "title": "Cleaving Moonlight",
+    "saved_location": "images\\S_WP_DA_SpinAttack.png"
+  },
+  {
+    "title": "Shadow Strike",
+    "saved_location": "images\\S_WP_DA_BlinkStrike_AA.png"
+  },
+  {
+    "title": "Inject Venom",
+    "saved_location": "images\\S_AS_SR_Burning__AA.png"
+  },
+  {
+    "title": "Brutal Incision",
+    "saved_location": "images\\S_WP_DA_DeadlyStrike_AA.png"
+  },
+  {
+    "title": "Vampiric Strike",
+    "saved_location": "images\\S_WP_DA_BloodStrike.png"
+  },
+  {
+    "title": "Frenzied Sword Dance",
+    "saved_location": "images\\WP_DA_DA_S_SonicAttack.png"
+  },
+  {
+    "title": "Umbral Spirit",
+    "saved_location": "images\\S_WP_DA_ShadowChaser.png"
+  },
+  {
+    "title": "Knife Throwing",
+    "saved_location": "images\\S_WP_DA_PoisonDagger_AA.png"
+  },
+  {
+    "title": "Ankle Strike",
+    "saved_location": "images\\S_WP_DA_LegAttack.png"
+  },
+  {
+    "title": "Camouflage Cloak",
+    "saved_location": "images\\S_AS_SR_Hide.png"
+  },
+  {
+    "title": "Fatal Stigma",
+    "saved_location": "images\\S_WP_DA_DelayDamage.png"
+  },
+  {
+    "title": "Phantom Smokescreen",
+    "saved_location": "images\\S_WP_DA_Smoke.png"
+  },
+  {
+    "title": "Assassin's Step",
+    "saved_location": "images\\S_AS_CO_Acceleration_AA.png"
+  },
+  {
+    "title": "Assassin's Instincts",
+    "saved_location": "images\\S_WP_DA_MeleeAccuracy_AA.png"
+  },
+  {
+    "title": "Murderous Energy",
+    "saved_location": "images\\S_WP_DA_PoisonBuff_AA.png"
+  },
+  {
+    "title": "Lightning Infusion",
+    "saved_location": "images\\S_WP_DA_PoisonEnchant_Context.png"
+  },
+  {
+    "title": "Shadow Walker",
+    "saved_location": "images\\S_WP_DA_MoveSkillEvasion_AA.png"
+  },
+  {
+    "title": "Destructive Fang",
+    "saved_location": "images\\S_WP_DA_PoisonTargetOffHandAttack.png"
+  },
+  {
+    "title": "Assassination Stance",
+    "saved_location": "images\\S_WP_DA_EvasionBuff.png"
+  },
+  {
+    "title": "Wrathful Edge",
+    "saved_location": "images\\S_WP_DA_CriticalDamageUp.png"
+  },
+  {
+    "title": "Rupturing Parry",
+    "saved_location": "images\\S_WP_CR_DefenseAction_Evasion_AA.png"
+  },
+  {
+    "title": "Quick Fire",
+    "saved_location": "images\\S_WP_CR_RapidShot_AA.png"
+  },
+  {
+    "title": "Nimble Leap",
+    "saved_location": "images\\S_WP_CR_Step_AA.png"
+  },
+  {
+    "title": "Mortal Mark",
+    "saved_location": "images\\S_WP_CR_ArmorBreakShot_AA.png"
+  },
+  {
+    "title": "Recoil Shot",
+    "saved_location": "images\\WP_CR_AddShot.png"
+  },
+  {
+    "title": "Multi-Shot",
+    "saved_location": "images\\S_WP_CR_BuckShot_AA.png"
+  },
+  {
+    "title": "Wind Snatcher",
+    "saved_location": "images\\S_WP_CR_RobShot.png"
+  },
+  {
+    "title": "Selfless Diffusion",
+    "saved_location": "images\\S_WP_CR_GhostWalk_AA.png"
+  },
+  {
+    "title": "Mother Nature's Protest",
+    "saved_location": "images\\S_WP_CR_AddProjectile.png"
+  },
+  {
+    "title": "Mana Exchange",
+    "saved_location": "images\\S_WP_CR_BloodToSoul.png"
+  },
+  {
+    "title": "Explosive Trap",
+    "saved_location": "images\\S_WP_CR_TauntTrap.png"
+  },
+  {
+    "title": "Merciless Barrage",
+    "saved_location": "images\\S_WP_CR_FuriousFire.png"
+  },
+  {
+    "title": "Weak Point Shot",
+    "saved_location": "images\\S_WP_CR_WeakPointShot.png"
+  },
+  {
+    "title": "Eagle Vision",
+    "saved_location": "images\\S_WP_CR_DistanceRangeAcc_AA.png"
+  },
+  {
+    "title": "Nature's Power",
+    "saved_location": "images\\S_WP_CR_PeaceTimeBuff_AA.png"
+  },
+  {
+    "title": "Ambidexterity",
+    "saved_location": "images\\S_WP_CR_OffHandMaxDmg_AA.png"
+  },
+  {
+    "title": "Piercing Strike",
+    "saved_location": "images\\S_WP_CR_CriticalAttack.png"
+  },
+  {
+    "title": "Bloodlust",
+    "saved_location": "images\\S_WP_ContinuousAttackBonus.png"
+  },
+  {
+    "title": "Corrupt Nail",
+    "saved_location": "images\\S_WP_CR_S_WeakenAccuracy.png"
+  },
+  {
+    "title": "Detection",
+    "saved_location": "images\\S_WP_CR_AfterImage.png"
+  },
+  {
+    "title": "Overtaker",
+    "saved_location": "images\\S_WP_BO_DefenceAction_AA.png"
+  },
+  {
+    "title": "Zephyr's Nock",
+    "saved_location": "images\\S_WP_BO_StrongShot_AA.png"
+  },
+  {
+    "title": "Ensnaring Arrow",
+    "saved_location": "images\\S_WP_BO_BindShot_AA.png"
+  },
+  {
+    "title": "Decisive Sniping",
+    "saved_location": "images\\S_WP_BO_PowerShot_AA.png"
+  },
+  {
+    "title": "Strafing",
+    "saved_location": "images\\S_WP_BO_MultiShot_AA.png"
+  },
+  {
+    "title": "Nature's Blessing",
+    "saved_location": "images\\S_WP_BO_RegenAura_AA.png"
+  },
+  {
+    "title": "Blitz",
+    "saved_location": "images\\S_WP_BO_DoubleShot.png"
+  },
+  {
+    "title": "Brutal Arrow",
+    "saved_location": "images\\S_WP_BO_DropShot.png"
+  },
+  {
+    "title": "Arrow Vortex",
+    "saved_location": "images\\S_WP_BO_TornadoShot.png"
+  },
+  {
+    "title": "Healing Touch",
+    "saved_location": "images\\S_WP_BO_S_RegenHeal.png"
+  },
+  {
+    "title": "Deadly Marker",
+    "saved_location": "images\\S_WP_BO_AttackMark.png"
+  },
+  {
+    "title": "Purifying Touch",
+    "saved_location": "images\\S_WP_BO_AbnormalDispel_PowerUp.png"
+  },
+  {
+    "title": "Flash Arrow",
+    "saved_location": "images\\S_WP_BO_Detection.png"
+  },
+  {
+    "title": "Rapidfire Stance",
+    "saved_location": "images\\S_WP_BO_InplaceAttack_AA.png"
+  },
+  {
+    "title": "Steady Aim",
+    "saved_location": "images\\S_WP_BO_BindAccuracyBoost_AA.png"
+  },
+  {
+    "title": "Sniper's Sense",
+    "saved_location": "images\\S_WP_BO_DistanceCritical_AA.png"
+  },
+  {
+    "title": "Roxie's Arrowhead",
+    "saved_location": "images\\S_WP_BO_WindBonusProjectile.png"
+  },
+  {
+    "title": "Distorted Sanctuary",
+    "saved_location": "images\\S_WP_BO_AuraDefenceUp_AA.png"
+  },
+  {
+    "title": "Earth's Blessing",
+    "saved_location": "images\\S_WP_BO_NatureForce.png"
+  },
+  {
+    "title": "Devoted Shield",
+    "saved_location": "images\\S_WP_BO_AbnormalShield.png"
+  },
+  {
+    "title": "Chaotic Shield",
+    "saved_location": "images\\S_WP_WA_DefenceAction_AA.png"
+  },
+  {
+    "title": "Touch of Despair",
+    "saved_location": "images\\S_WP_WA_Corruption_AA.png"
+  },
+  {
+    "title": "Curse Explosion",
+    "saved_location": "images\\S_WP_WA_GR_CurseBurst_AA.png"
+  },
+  {
+    "title": "Swift Healing",
+    "saved_location": "images\\S_WP_WA_GR_S_Heal_AA.png"
+  },
+  {
+    "title": "Corrupted Magic Circle",
+    "saved_location": "images\\S_WP_WA_CurseArea_AA.png"
+  },
+  {
+    "title": "Cursed Nightmare",
+    "saved_location": "images\\S_WP_WA_Sleep_AA.png"
+  },
+  {
+    "title": "Fountain of Life",
+    "saved_location": "images\\S_WP_WA_HealField.png"
+  },
+  {
+    "title": "Clay's Salvation",
+    "saved_location": "images\\S_WP_WA_GR_S_HealAll.png"
+  },
+  {
+    "title": "Time for Punishment",
+    "saved_location": "images\\S_WP_WA_Decay.png"
+  },
+  {
+    "title": "Karmic Haze",
+    "saved_location": "images\\S_WP_WA_GR_CurseSpread.png"
+  },
+  {
+    "title": "Blessed Barrier",
+    "saved_location": "images\\S_WP_WA_DefenseUp.png"
+  },
+  {
+    "title": "Invincible Wall",
+    "saved_location": "images\\S_WP_WA_MagicShield_SP.png"
+  },
+  {
+    "title": "Ray of Disaster",
+    "saved_location": "images\\S_WP_WA_LinkLaser_SP.png"
+  },
+  {
+    "title": "Full of Corruption",
+    "saved_location": "images\\S_WP_WA_GR_CurseKillBonus_AA.png"
+  },
+  {
+    "title": "Devotion and Emptiness",
+    "saved_location": "images\\S_WP_WA_GR_DayHealNightCurse_AA.png"
+  },
+  {
+    "title": "Wraith's Beckon",
+    "saved_location": "images\\S_WP_WA_GR_CurseDuration_AA.png"
+  },
+  {
+    "title": "Vampiric Contract",
+    "saved_location": "images\\S_WP_WA_GR_CurseAttackHeal_AA.png"
+  },
+  {
+    "title": "Noble Revival",
+    "saved_location": "images\\S_WP_WA_GR_HealEfficiencyByMaxCost.png"
+  },
+  {
+    "title": "Saint's Oath",
+    "saved_location": "images\\S_WP_WA_HealEffectUpWhenSkillDamageTaken.png"
+  },
+  {
+    "title": "Selfless Soul",
+    "saved_location": "images\\S_WP_WA_SupportAllyCostRegenUp.png"
+  },
+  {
+    "title": "Mystic Shield",
+    "saved_location": "images\\S_WP_ST_defenceAction_AA.png"
+  },
+  {
+    "title": "Serial Fire Bombs",
+    "saved_location": "images\\S_WP_ST_WideAreaAttack_AA.png"
+  },
+  {
+    "title": "Inferno Wave",
+    "saved_location": "images\\S_WP_ST_WideAreaDebuffAttack_AA.png"
+  },
+  {
+    "title": "Frost Smokescreen",
+    "saved_location": "images\\S_WP_ST_S_AoeTeleport_AA.png"
+  },
+  {
+    "title": "Chain Lightning",
+    "saved_location": "images\\S_WP_ST_MainAttack_AA.png"
+  },
+  {
+    "title": "Inner Peace",
+    "saved_location": "images\\S_WP_ST_ManaRengeUp_AA.png"
+  },
+  {
+    "title": "Salvation Chain",
+    "saved_location": "images\\S_WP_ST_BringSkill.png"
+  },
+  {
+    "title": "Fireball Barrage",
+    "saved_location": "images\\S_WP_ST_FireCombo.png"
+  },
+  {
+    "title": "Ice Spear",
+    "saved_location": "images\\S_WP_ST_IceSpear.png"
+  },
+  {
+    "title": "Icebound Tomb",
+    "saved_location": "images\\S_WP_ST_IceFreeze.png"
+  },
+  {
+    "title": "High Focus",
+    "saved_location": "images\\S_WP_ST_GlobalCoolDownBuff.png"
+  },
+  {
+    "title": "Judgment Lightning",
+    "saved_location": "images\\S_WP_ST_PowerAttack.png"
+  },
+  {
+    "title": "Infernal Meteor",
+    "saved_location": "images\\S_WP_ST_S_Meteor.png"
+  },
+  {
+    "title": "Manaball Eruption",
+    "saved_location": "images\\S_WP_ST_AddProjectile_AA.png"
+  },
+  {
+    "title": "Asceticism",
+    "saved_location": "images\\S_WP_ST_ManaRegenBuff_AA.png"
+  },
+  {
+    "title": "Mana Amp",
+    "saved_location": "images\\S_WP_ST_MaxManaUp_AA.png"
+  },
+  {
+    "title": "Flame Condensation",
+    "saved_location": "images\\S_WP_ST_FireLightningForce_AA.png"
+  },
+  {
+    "title": "Echoic Barrier",
+    "saved_location": "images\\S_WP_ST_S_SilenceToleranceBuff.png"
+  },
+  {
+    "title": "Frost Master",
+    "saved_location": "images\\S_WP_ST_SlowDuration.png"
+  },
+  {
+    "title": "Forbidden Sanctuary",
+    "saved_location": "images\\S_WP_ST_S_HitDamageReductionBuff.png"
+  }
+]
